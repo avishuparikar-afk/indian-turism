@@ -1,0 +1,57 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Compass Star & Monument silhouette -->
+    <!-- Outer ring accent -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="1.5"
+        android:pathData="M54,26 A28,28 0 1,0 54,82 A28,28 0 1,0 54,26 Z" />
+    <!-- North/South/East/West diamond pointers -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M54,20 L57,26 L51,26 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M54,88 L51,82 L57,82 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M20,54 L26,51 L26,57 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M88,54 L82,57 L82,51 Z" />
+    <!-- Stylized Taj Mahal / Gateway of India arch silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,74 L34,58 L38,58 L38,74 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,74 L70,58 L74,58 L74,74 Z" />
+    <!-- Minaret top caps -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M36,54 L34,58 L38,58 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M72,54 L70,58 L74,58 Z" />
+    <!-- Central grand dome & main pavilion -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,74 L40,52 C40,42 48,36 54,34 C60,36 68,42 68,52 L68,74 Z" />
+    <!-- Central Arch cutout -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M48,74 L48,58 C48,53 51,50 54,50 C57,50 60,53 60,58 L60,74 Z" />
+    <!-- Spire finial on top of dome -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,30 L55.5,34 L52.5,34 Z" />
+    <!-- Base podium line -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M30,74 L78,74 L78,76 L30,76 Z" />
+</vector>
+

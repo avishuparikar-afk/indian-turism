@@ -1,0 +1,6 @@
+{
+  "name": "India Tourism Explorer",
+  "description": "Discover, explore, and plan trips across India with interactive maps, Gemini AI travel assistant, offline guides, and Gmail integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
